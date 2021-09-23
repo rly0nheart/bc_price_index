@@ -1,2 +1,1 @@
-# bc_price_index
-Python implementation of getting bitcoin price index using CoinDesk API
+This is a Python implementation of the CoinDesk API for getting Bitcoin price index.
